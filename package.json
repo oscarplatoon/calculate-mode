@@ -1,0 +1,22 @@
+{
+  "name": "calculate-mode",
+  "version": "1.0.0",
+  "description": "## In this challenge you will need to: - Break a large problem down into smaller steps using pseudocode - Iterate through data structures and manipulate the content - Determine which data structure (arrays or hashes) to use based on challenge requirements",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jung341416/calculate-mode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jung341416/calculate-mode/issues"
+  },
+  "homepage": "https://github.com/jung341416/calculate-mode#readme",
+  "devDependencies": {
+    "jest": "^27.0.1"
+  }
+}
